@@ -1,6 +1,6 @@
-let character = 'mario';
-let age = 30;
-let isBlackBelt = false;
+var character = 'mario';
+var age = 30;
+var isBlackBelt = false;
 
 // character = 20;
 character = 'luigi';
