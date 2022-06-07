@@ -1,0 +1,4 @@
+{
+    "include": ["**/*.ts"], // or maybe some other paths
+    "exclude": ["**/*.js"], // don't include javascript files
+}

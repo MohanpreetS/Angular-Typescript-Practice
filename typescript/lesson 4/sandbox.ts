@@ -1,3 +1,4 @@
+export{}
 let character: string = 'mario';
 let age: number;
 let isLoggedIn: boolean;
