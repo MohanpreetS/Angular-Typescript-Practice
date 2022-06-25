@@ -1,5 +1,4 @@
 import { Invoice } from './classes/Invoice.js';
-
 // interfaces
 export interface IsPerson {
   name: string;
